@@ -1,3 +1,4 @@
+ ![logo](https://github.com/KajalR4321/KajalR4321/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Kajal Rajak</h1>
 <h3 align="center">I am passionate about Frontend- developer and Software developer</h3>
 <img align="right" alt="coding" width="300" height="200" src="https://thumbs.dreamstime.com/b/html-coding-animated-typography-html-coding-animated-typography-concept-futuristic-177151548.jpg">
