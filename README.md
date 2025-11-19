@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kajal Rajak</h1>
 <h3 align="center">I am passionate about Frontend- developer and Software developer</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/html-coding-animated-typography-html-coding-animated-typography-concept-futuristic-177151548.jpg">
+<img align="right" alt="coding" width="300" height="200" src="https://thumbs.dreamstime.com/b/html-coding-animated-typography-html-coding-animated-typography-concept-futuristic-177151548.jpg">
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalr4321&label=Profile%20views&color=0e75b6&style=flat" alt="kajalr4321" /> </p>
