@@ -1,8 +1,9 @@
  ![logo](https://github.com/KajalR4321/KajalR4321/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Kajal Rajak</h1>
 <h3 align="center">I am passionate about Frontend- developer and Software developer</h3>
-<img align="right" alt="coding" width="300" height="200" src="https://t4.ftcdn.net/jpg/10/03/55/53/360_F_1003555330_ITzmTzlMwP7Zar1IXOvsPiOS9A4od52a.jpg ">
-</br>
+<img align="right" alt="coding" width="300" height="200"
+src="https://t4.ftcdn.net/jpg/10/03/55/53/360_F_1003555330_ITzmTzlMwP7Zar1IXOvsPiOS9A4od52a.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalr4321&label=Profile%20views&color=0e75b6&style=flat" alt="kajalr4321" /> </p>
 
